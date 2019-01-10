@@ -2,9 +2,17 @@
 <html dir="ltr">
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <link rel="stylesheet" href="style.css">
+  <title>Meriem My Admin</title>
 </head>
 <body>
+  <fieldset>
+    <legend>Chercher</legend>
+
+
+  </fieldset>
+
+
   <fieldset>
     <legend>Tables</legend>
     <form class="" action="require.php" method="post">
