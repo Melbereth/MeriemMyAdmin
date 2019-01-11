@@ -18,4 +18,6 @@ else if (isset($_POST['supprimer'])) {
   $table->suppcol($_POST['tatable'],$_POST['supcol']);
 }
 
+header('Location: http://localhost/BDD/MeriemMyAdmin/');
+
  ?>

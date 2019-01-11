@@ -7,13 +7,6 @@
 </head>
 <body>
   <fieldset>
-    <legend>Chercher</legend>
-
-
-  </fieldset>
-
-
-  <fieldset>
     <legend>Tables</legend>
     <form class="" action="require.php" method="post">
     <div id="creat">
